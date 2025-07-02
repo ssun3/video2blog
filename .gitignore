@@ -1,0 +1,7 @@
+.env
+.venv/
+outputs/
+outputs_multimodal/
+__pycache__/
+*.pyc
+.DS_Store
